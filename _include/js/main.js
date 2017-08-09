@@ -76,7 +76,7 @@ BRUSHED.slider = function(){
 		slide_links				:	'blank',	// Individual links for each slide (Options: false, 'num', 'name', 'blank')
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
-		slides 					:  	[			// Slideshow Images
+		slides 					:  	[			// Slideshow Images 
 											{image : 'https://rawgit.com/kennethheckler/4amotorcompany/master/_include/img/main.jpg', title : '<div class="slide-content">4A Motor Company<div class="slide-content-sub">The Road to Car Ownership</div></div>', thumb : '', url : ''}  
 									],
 									
