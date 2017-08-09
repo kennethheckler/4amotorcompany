@@ -399,7 +399,7 @@ BRUSHED.toolTip = function(){
 BRUSHED.slider();
 
 $(document).ready(function(){
-	Modernizr.load([
+	/*Modernizr.load([
 	{
 		test: Modernizr.placeholder,
 		nope: 'https://rawgit.com/kennethheckler/4amotorcompany/master/_include/js/placeholder.js', 
@@ -414,7 +414,7 @@ $(document).ready(function(){
 				}
 		}
 	}
-	]);
+	]);*/
 	
 	// Preload the page with jPreLoader
 	$('body').jpreLoader({
